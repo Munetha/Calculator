@@ -6,12 +6,6 @@ function calculate() {
 	var result;
 
 
-	console.log(operand1);
-	console.log(operand2);
-	console.log(operator);
-
-
-
 	switch (operator) {
 		case "+":
 			result = add(operand1, operand2)
